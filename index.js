@@ -15,5 +15,9 @@ app.use("/api/cities" , citiesRoutes);
 app.use('/api/trips', tripsRoutes);
 app.use('/api/hotels', hotelsRoutes);
 
+
+app.get("/" ,(req , res)=>{
+res.send("Hello, This is manish")
+})
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
