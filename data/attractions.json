@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "cityId": 1,
+    "name": "Solang Valley",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_jt27h4.jpg",
+    "description": "Adventure hub offering paragliding, zorbing, and skiing with stunning Himalayan views."
+  },
+  {
+    "id": 2,
+    "cityId": 1,
+    "name": "Hadimba Temple",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_5_q8wyae.jpg",
+    "description": "Ancient 16th-century wooden temple dedicated to Hidimba Devi, surrounded by cedar forests."
+  },
+  {
+    "id": 3,
+    "cityId": 1,
+    "name": "Rohtang Pass",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_7_n5vbbn.jpg",
+    "description": "Breathtaking high mountain pass at 3,978m offering snow activities and panoramic views."
+  },
+  {
+    "id": 4,
+    "cityId": 1,
+    "name": "Manu Temple",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_8_gfxflk.jpg",
+    "description": "Sacred temple dedicated to Sage Manu, believed to be the creator of human race in Hinduism."
+  },
+  {
+    "id": 5,
+    "cityId": 1,
+    "name": "Vashisht Hot Springs",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_9_rtyzny.jpg",
+    "description": "Natural sulfur-rich hot water springs with ancient stone baths and temple complex."
+  },
+  {
+    "id": 6,
+    "cityId": 1,
+    "name": "Old Manali",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_10_wqaqtp.jpg",
+    "description": "Bohemian village area with charming cafes, apple orchards, and hippie culture vibe."
+  },
+  {
+    "id": 7,
+    "cityId": 2,
+    "name": "Baga Beach",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_6_kqhrxc.jpg",
+    "description": "Vibrant beach famous for water sports, nightlife, and beach shacks serving fresh seafood."
+  },
+  {
+    "id": 8,
+    "cityId": 2,
+    "name": "Fort Aguada",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_4_bju3gx.jpg",
+    "description": "17th-century Portuguese fort with lighthouse offering panoramic views of Arabian Sea."
+  },
+  {
+    "id": 9,
+    "cityId": 2,
+    "name": "Dudhsagar Falls",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_3_fvmynv.jpg",
+    "description": "Majestic 4-tiered waterfall cascading from 310m height amidst lush Western Ghats."
+  },
+  {
+    "id": 10,
+    "cityId": 2,
+    "name": "Basilica of Bom Jesus",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_1_psirrd.jpg",
+    "description": "UNESCO World Heritage Site housing the mortal remains of St. Francis Xavier."
+  },
+  {
+    "id": 11,
+    "cityId": 2,
+    "name": "Anjuna Flea Market",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_2_zwxrfr.jpg",
+    "description": "Colorful Wednesday market selling handicrafts, clothes, and souvenirs since 1960s."
+  },
+  {
+    "id": 12,
+    "cityId": 2,
+    "name": "Palolem Beach",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_jt27h4.jpg",
+    "description": "Scenic crescent-shaped beach with calm waters, perfect for swimming and kayaking."
+  },
+  {
+    "id": 13,
+    "cityId": 3,
+    "name": "Hawa Mahal",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_5_q8wyae.jpg",
+    "description": "Iconic 'Palace of Winds' with 953 intricately carved windows for royal women to observe streets."
+  },
+  {
+    "id": 14,
+    "cityId": 3,
+    "name": "Amber Fort",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_7_n5vbbn.jpg",
+    "description": "Magnificent hilltop fort-palace with mirror work, elephant rides, and light show at night."
+  },
+  {
+    "id": 15,
+    "cityId": 3,
+    "name": "City Palace",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_8_gfxflk.jpg",
+    "description": "Royal residence with museums showcasing Rajput artifacts, weapons, and royal costumes."
+  },
+  {
+    "id": 16,
+    "cityId": 3,
+    "name": "Jantar Mantar",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_9_rtyzny.jpg",
+    "description": "UNESCO-listed 18th-century astronomical observatory with massive stone instruments."
+  },
+  {
+    "id": 17,
+    "cityId": 3,
+    "name": "Nahargarh Fort",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_10_wqaqtp.jpg",
+    "description": "Hilltop fort offering panoramic city views and famous for its 'Padao' restaurant."
+  },
+  {
+    "id": 18,
+    "cityId": 3,
+    "name": "Johari Bazaar",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_6_kqhrxc.jpg",
+    "description": "Jaipur's most famous jewelry market specializing in Kundan, Meenakari, and gemstones."
+  },
+  {
+    "id": 19,
+    "cityId": 4,
+    "name": "Red Fort",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_4_bju3gx.jpg",
+    "description": "UNESCO World Heritage Site - Mughal emperor Shah Jahan's iconic red sandstone fortress."
+  },
+  {
+    "id": 20,
+    "cityId": 4,
+    "name": "Qutub Minar",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_3_fvmynv.jpg",
+    "description": "73m tall victory tower built in 1193, the world's tallest brick minaret with intricate carvings."
+  },
+  {
+    "id": 21,
+    "cityId": 4,
+    "name": "India Gate",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_1_psirrd.jpg",
+    "description": "War memorial arch honoring soldiers, surrounded by lawns and popular evening picnic spot."
+  },
+  {
+    "id": 22,
+    "cityId": 4,
+    "name": "Lotus Temple",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_2_zwxrfr.jpg",
+    "description": "Stunning Bahá'í House of Worship shaped like a lotus flower, open to all religions."
+  },
+  {
+    "id": 23,
+    "cityId": 4,
+    "name": "Chandni Chowk",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_jt27h4.jpg",
+    "description": "Historic 17th-century market offering street food, spices, textiles, and chaotic charm."
+  },
+  {
+    "id": 24,
+    "cityId": 4,
+    "name": "Humayun's Tomb",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_5_q8wyae.jpg",
+    "description": "UNESCO-listed Mughal garden tomb that inspired the Taj Mahal's architecture."
+  },
+  {
+    "id": 25,
+    "cityId": 5,
+    "name": "Mall Road",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_7_n5vbbn.jpg",
+    "description": "Shimla's vibrant main street lined with colonial buildings, shops, cafes, and restaurants."
+  },
+  {
+    "id": 26,
+    "cityId": 5,
+    "name": "Jakhoo Temple",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_8_gfxflk.jpg",
+    "description": "Ancient hilltop temple dedicated to Hanuman with giant statue and panoramic views."
+  },
+  {
+    "id": 27,
+    "cityId": 5,
+    "name": "Kufri",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_9_rtyzny.jpg",
+    "description": "Scenic hill station near Shimla offering skiing, yak rides, and Himalayan wildlife zoo."
+  },
+  {
+    "id": 28,
+    "cityId": 5,
+    "name": "Christ Church",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003516/download_10_wqaqtp.jpg",
+    "description": "Second oldest church in North India with neo-gothic architecture and stained glass windows."
+  },
+  {
+    "id": 29,
+    "cityId": 5,
+    "name": "Shimla State Museum",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_6_kqhrxc.jpg",
+    "description": "Showcases Himachal's cultural heritage with ancient sculptures, paintings, and coins."
+  },
+  {
+    "id": 30,
+    "cityId": 5,
+    "name": "The Ridge",
+    "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1753003515/download_4_bju3gx.jpg",
+    "description": "Large open space in heart of Shimla offering panoramic mountain views and cultural events."
+  }
+]

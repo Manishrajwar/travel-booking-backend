@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1,
+    "cityId": 1,
+    "title": "Manali Adventure Trip",
+    "duration": "5 Days",
+    "price": 12000,
+    "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994210/images_1_las5mp.jpg" ,
+    "description": "Explore Manali's hills and valleys." 
+  },
+  {
+    "id": 2,
+    "cityId": 1,
+    "title": "Manali Snow Fun",
+    "duration": "3 Days",
+    "price": 9000,
+    "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994210/images_o7yvs0.jpg",
+    "description": "Enjoy snow sports and local cuisine."
+  },
+  {
+    "id": 3,
+    "cityId": 2,
+    "title": "Goa Beach Holiday",
+    "duration": "4 Days",
+    "price": 15000,
+    "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994382/download_3_b1zem3.jpg" , 
+    "description": "Relax at Goa's sunny beaches."
+  },
+  {
+    "id": 4,
+    "cityId": 2,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994382/download_1_dzpagd.jpg" , 
+    "title": "Goa Party Package",
+    "duration": "3 Days",
+    "price": 13000,
+    "description": "Experience Goa's nightlife."
+  },
+  {
+    "id": 5,
+    "cityId": 3,
+    "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994518/images_eohqsk.jpg" ,
+    "title": "Jaipur Heritage Tour",
+    "duration": "2 Days",
+    "price": 8000,
+    "description": "Discover palaces and forts."
+  },
+  {
+    "id": 6,
+    "cityId": 3,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994518/download_3_fzfcas.jpg" ,
+    "title": "Jaipur Food Trip",
+    "duration": "1 Day",
+    "price": 5000,
+    "description": "Taste authentic Rajasthani food."
+  },
+  {
+    "id": 7,
+    "cityId": 4,
+    "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994632/download_tvgn7t.jpg" , 
+    "title": "Delhi Cultural Walk",
+    "duration": "2 Days",
+    "price": 6000,
+    "description": "Visit monuments & markets."
+  },
+  {
+    "id": 8,
+    "cityId": 4,
+    "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994632/download_5_mp8dv7.jpg" , 
+    "title": "Delhi Shopping Spree",
+    "duration": "1 Day",
+    "price": 4000,
+    "description": "Shop till you drop!"
+  },
+  {
+    "id": 9,
+    "cityId": 5,
+    "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994770/download_aip0vs.jpg" , 
+    "title": "Shimla Honeymoon",
+    "duration": "5 Days",
+    "price": 14000,
+    "description": "Romantic getaway in Shimla."
+  },
+  {
+    "id": 10,
+    "cityId": 5,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994791/images_xtkilw.jpg" , 
+    "title": "Shimla Family Trip",
+    "duration": "4 Days",
+    "price": 11000,
+    "description": "Fun for the whole family."
+  },
+  {
+    "id": 11,
+    "cityId": 1,
+    "title": "Manali Paragliding Expedition",
+    "duration": "4 Days",
+    "price": 11500,
+        "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994210/images_2_tqxjcf.jpg" ,
+    "description": "Soar above Manali with thrilling paragliding."
+  },
+  {
+    "id": 12,
+    "cityId": 1,
+    "title": "Manali Nature Retreat",
+    "duration": "5 Days",
+    "price": 12500,
+        "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994210/download_1_mg681o.jpg" ,
+    "description": "Connect with nature through guided hikes."
+  },
+  {
+    "id": 13,
+    "cityId": 2,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994382/download_2_vzpid0.jpg" , 
+    "title": "Goa Island Hopping",
+    "duration": "3 Days",
+    "price": 14500,
+    "description": "Explore hidden islands around Goa."
+  },
+  {
+    "id": 14,
+    "cityId": 2,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994405/download_4_lqjvm2.jpg" , 
+    "title": "Goa Relaxation Spa",
+    "duration": "4 Days",
+    "price": 15500,
+    "description": "Indulge in beachfront wellness therapy."
+  },
+  {
+    "id": 15,
+    "cityId": 3,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994518/download_4_enikjk.jpg" ,
+    "title": "Jaipur Royal Palace Stay",
+    "duration": "3 Days",
+    "price": 9500,
+    "description": "Stay in a royal palace and dine like royalty."
+  },
+  {
+    "id": 16,
+    "cityId": 3,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994518/download_w5ybd2.jpg" ,
+    "title": "Jaipur Camel Safari",
+    "duration": "2 Days",
+    "price": 7800,
+    "description": "Ride camels through desert landscapes."
+  },
+  {
+    "id": 17,
+    "cityId": 4,
+    "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994632/download_4_yiic6s.jpg" , 
+    "title": "Delhi Food Trail",
+    "duration": "1 Day",
+    "price": 3000,
+    "description": "Taste the best of Delhi's street food."
+  },
+  {
+    "id": 18,
+    "cityId": 4,
+    "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994632/download_3_c88q38.jpg" , 
+    "title": "Delhi Monuments Tour",
+    "duration": "2 Days",
+    "price": 5500,
+    "description": "Visit famous forts and temples."
+  },
+  {
+    "id": 19,
+    "cityId": 5,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994769/download_4_bfn47h.jpg" , 
+    "title": "Shimla Toy Train Ride",
+    "duration": "3 Days",
+    "price": 9500,
+    "description": "Take the scenic Kalka–Shimla toy train."
+  },
+  {
+    "id": 20,
+    "cityId": 5,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994769/download_2_kpwkli.jpg" , 
+    "title": "Shimla Campfire Nights",
+    "duration": "2 Days",
+    "price": 8800,
+    "description": "Enjoy bonfire evenings in the hills."
+  },
+  {
+    "id": 21,
+    "cityId": 1,
+    "title": "Manali Apple Orchard Stay",
+    "duration": "3 Days",
+    "price": 9200,
+            "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994210/download_2_i7k93y.jpg" ,
+
+    "description": "Stay amidst lush apple orchards."
+  },
+  {
+    "id": 22,
+    "cityId": 1,
+    "title": "Manali Photography Tour",
+    "duration": "4 Days",
+    "price": 10800,
+            "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994210/download_m5xbak.jpg" ,
+
+    "description": "Capture the natural beauty of Himachal."
+  },
+  {
+    "id": 23,
+    "cityId": 2,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994405/download_bt0ty8.jpg" , 
+    "title": "Goa Romantic Escape",
+    "duration": "4 Days",
+    "price": 16000,
+    "description": "Couples getaway with beachside dinners."
+  },
+  {
+    "id": 24,
+    "cityId": 2,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994405/images_tezrtk.jpg" , 
+    "title": "Goa Carnival Festival Trip",
+    "duration": "3 Days",
+    "price": 13500,
+    "description": "Celebrate Goa’s vibrant carnival."
+  },
+  {
+    "id": 25,
+    "cityId": 3,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994518/download_2_funklr.jpg" ,
+    "title": "Jaipur Local Market Tour",
+    "duration": "1 Day",
+    "price": 4000,
+    "description": "Shop for handicrafts in bustling bazaars."
+  },
+  {
+    "id": 26,
+    "cityId": 3,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994517/download_1_j9fdvj.jpg" ,
+    "title": "Jaipur Architecture Walk",
+    "duration": "2 Days",
+    "price": 6900,
+    "description": "Admire historical forts and pink city structures."
+  },
+  {
+    "id": 27,
+    "cityId": 4,
+    "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994632/download_2_ggol8l.jpg" , 
+    "title": "Delhi Museum Crawl",
+    "duration": "2 Days",
+    "price": 5000,
+    "description": "Explore India’s top museums and galleries."
+  },
+  {
+    "id": 28,
+    "cityId": 4,
+    "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994631/download_1_zpyzjz.jpg" , 
+    "title": "Delhi Evening Heritage Walk",
+    "duration": "1 Day",
+    "price": 3500,
+    "description": "See Delhi’s charm under the evening lights."
+  },
+  {
+    "id": 29,
+    "cityId": 5,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994769/download_3_agnqdn.jpg" , 
+    "title": "Shimla Snowfall Weekend",
+    "duration": "2 Days",
+    "price": 9800,
+    "description": "Experience snowfall and cozy cottages."
+  },
+  {
+    "id": 30,
+    "cityId": 5,
+     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994769/download_1_itt26b.jpg" , 
+    "title": "Shimla Cultural Village Tour",
+    "duration": "3 Days",
+    "price": 10200,
+    "description": "Interact with local communities and traditions."
+  }
+
+
+]
