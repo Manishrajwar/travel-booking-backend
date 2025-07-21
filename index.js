@@ -7,7 +7,7 @@ const citiesRoutes = require('./routes/cities');
 
 const app = express();
 app.use(cors({
-     origin:["https://gregarious-malabi-797ca1.netlify.app/"] 
+     origin:["https://gregarious-malabi-797ca1.netlify.app" , "*"] 
 }));
 
 // Routes
