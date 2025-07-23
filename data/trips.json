@@ -22,7 +22,7 @@
     "cityId": 2,
     "title": "Goa Beach Holiday",
     "duration": "4 Days",
-    "price": 15000,
+    "price": 2000,
     "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994382/download_3_b1zem3.jpg" , 
     "description": "Relax at Goa's sunny beaches."
   },
@@ -32,7 +32,7 @@
      "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994382/download_1_dzpagd.jpg" , 
     "title": "Goa Party Package",
     "duration": "3 Days",
-    "price": 13000,
+    "price": 7500,
     "description": "Experience Goa's nightlife."
   },
   {
@@ -122,7 +122,7 @@
      "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994405/download_4_lqjvm2.jpg" , 
     "title": "Goa Relaxation Spa",
     "duration": "4 Days",
-    "price": 15500,
+    "price": 11500,
     "description": "Indulge in beachfront wellness therapy."
   },
   {
@@ -205,7 +205,7 @@
      "img":"https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752994405/download_bt0ty8.jpg" , 
     "title": "Goa Romantic Escape",
     "duration": "4 Days",
-    "price": 16000,
+    "price": 6000,
     "description": "Couples getaway with beachside dinners."
   },
   {

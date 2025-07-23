@@ -1,10 +1,11 @@
 [
+ 
   {
     "id": 1,
     "cityId": 1,
     "name": "Snow Valley Resort",
     "pricePerNight": 2500,
-    "rating": 4.5,
+    "rating": 3.8,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_duvnqs.jpg",
     "description": "Nestled in the Himalayas, our resort offers cozy wooden cabins with breathtaking mountain views and easy access to skiing slopes."
   },
@@ -12,8 +13,8 @@
     "id": 2,
     "cityId": 1,
     "name": "Manali Heights",
-    "pricePerNight": 3000,
-    "rating": 4.2,
+    "pricePerNight": 3500,
+    "rating": 4.0,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_4_cyxbiz.jpg",
     "description": "Luxurious rooms with floor-to-ceiling windows showcasing panoramic mountain vistas, featuring an infinity pool and spa services."
   },
@@ -21,8 +22,8 @@
     "id": 3,
     "cityId": 2,
     "name": "Goa Beach Resort",
-    "pricePerNight": 4000,
-    "rating": 4.6,
+    "pricePerNight": 4500,
+    "rating": 4.5,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_2_ovzos4.jpg",
     "description": "Beachfront property with private beach access, tropical gardens, and sea-facing balconies in every room."
   },
@@ -30,8 +31,8 @@
     "id": 4,
     "cityId": 2,
     "name": "Goa Sunset Inn",
-    "pricePerNight": 3500,
-    "rating": 4.1,
+    "pricePerNight": 5000,
+    "rating": 3.9,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_3_mnoe5r.jpg",
     "description": "Charming Portuguese-style villa offering stunning sunset views over the Arabian Sea, just steps from popular beaches."
   },
@@ -39,8 +40,8 @@
     "id": 5,
     "cityId": 3,
     "name": "Jaipur Palace Hotel",
-    "pricePerNight": 2000,
-    "rating": 4.3,
+    "pricePerNight": 3000,
+    "rating": 3.7,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_1_xofo6k.jpg",
     "description": "Authentic Rajput architecture with modern amenities, featuring courtyard gardens and traditional Rajasthani cuisine."
   },
@@ -48,8 +49,8 @@
     "id": 6,
     "cityId": 3,
     "name": "Pink City Inn",
-    "pricePerNight": 1800,
-    "rating": 4.0,
+    "pricePerNight": 3500,
+    "rating": 4.2,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_4_oqp4td.jpg",
     "description": "Centrally located budget hotel with clean rooms, rooftop restaurant, and walking distance to major attractions."
   },
@@ -57,7 +58,7 @@
     "id": 7,
     "cityId": 4,
     "name": "Delhi Grand",
-    "pricePerNight": 3200,
+    "pricePerNight": 6000,
     "rating": 4.4,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_lcgboy.jpg",
     "description": "Contemporary luxury in the heart of Delhi, featuring a multi-cuisine restaurant and easy metro access to business districts."
@@ -66,8 +67,8 @@
     "id": 8,
     "cityId": 4,
     "name": "Red Fort Hotel",
-    "pricePerNight": 2800,
-    "rating": 4.1,
+    "pricePerNight": 6500,
+    "rating": 3.6,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_3_pett0l.jpg",
     "description": "Heritage property near Old Delhi's landmarks, blending Mughal-era charm with modern comfort and authentic local cuisine."
   },
@@ -75,8 +76,8 @@
     "id": 9,
     "cityId": 5,
     "name": "Shimla Hilltop",
-    "pricePerNight": 2700,
-    "rating": 4.5,
+    "pricePerNight": 5500,
+    "rating": 4.8,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_2_wxch6c.jpg",
     "description": "Perched on a hill with 360-degree mountain views, offering cozy fireplaces and guided nature walks."
   },
@@ -84,8 +85,8 @@
     "id": 10,
     "cityId": 5,
     "name": "Mall Road Lodge",
-    "pricePerNight": 2200,
-    "rating": 4.0,
+    "pricePerNight": 6000,
+    "rating": 3.9,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_1_n4j64n.jpg",
     "description": "Charming colonial-era property right on Shimla's famous Mall Road, steps from shopping and entertainment."
   },
@@ -93,8 +94,8 @@
     "id": 11,
     "cityId": 1,
     "name": "Himalayan Breeze Inn",
-    "pricePerNight": 2600,
-    "rating": 4.3,
+    "pricePerNight": 4000,
+    "rating": 4.5,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_duvnqs.jpg",
     "description": "Family-run inn with spacious verandas offering uninterrupted mountain views and homemade Himachali meals."
   },
@@ -102,8 +103,8 @@
     "id": 12,
     "cityId": 1,
     "name": "Apple Valley Cottages",
-    "pricePerNight": 2800,
-    "rating": 4.4,
+    "pricePerNight": 5000,
+    "rating": 4.9,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_4_cyxbiz.jpg",
     "description": "Secluded cottages surrounded by apple orchards, featuring private gardens and orchard-to-table dining experiences."
   },
@@ -111,8 +112,8 @@
     "id": 13,
     "cityId": 1,
     "name": "Manali Pine Retreat",
-    "pricePerNight": 2300,
-    "rating": 4.2,
+    "pricePerNight": 4200,
+    "rating": 3.5,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_2_ovzos4.jpg",
     "description": "Eco-friendly retreat nestled in dense pine forests, with nature trails and outdoor yoga spaces."
   },
@@ -120,8 +121,8 @@
     "id": 14,
     "cityId": 2,
     "name": "Ocean Pearl Goa",
-    "pricePerNight": 4200,
-    "rating": 4.7,
+    "pricePerNight": 7000,
+    "rating": 4.9,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_3_mnoe5r.jpg",
     "description": "5-star beach resort featuring infinity pools, water sports, and private cabanas with butler service."
   },
@@ -129,8 +130,8 @@
     "id": 15,
     "cityId": 2,
     "name": "Coconut Grove Inn",
-    "pricePerNight": 3600,
-    "rating": 4.3,
+    "pricePerNight": 7200,
+    "rating": 4.1,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_1_xofo6k.jpg",
     "description": "Boutique property with hammocks strung between coconut trees, offering Goan-Portuguese fusion cuisine."
   },
@@ -138,8 +139,8 @@
     "id": 16,
     "cityId": 2,
     "name": "Goa Riverside Stay",
-    "pricePerNight": 3300,
-    "rating": 4.2,
+    "pricePerNight": 7500,
+    "rating": 3.7,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_4_oqp4td.jpg",
     "description": "Tranquil riverside villas with kayak access to nearby beaches and sunset river cruises."
   },
@@ -147,8 +148,8 @@
     "id": 17,
     "cityId": 3,
     "name": "Amber Fort Residency",
-    "pricePerNight": 2100,
-    "rating": 4.4,
+    "pricePerNight": 4800,
+    "rating": 2.4,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_lcgboy.jpg",
     "description": "Traditional haveli-style hotel with rooftop views of Amber Fort, offering heritage walks and puppet shows."
   },
@@ -156,8 +157,8 @@
     "id": 18,
     "cityId": 3,
     "name": "Royal Haveli Stay",
-    "pricePerNight": 2400,
-    "rating": 4.5,
+    "pricePerNight": 5000,
+    "rating": 4.6,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_3_pett0l.jpg",
     "description": "16th-century restored haveli featuring hand-painted frescoes, courtyard dining, and turban-tying workshops."
   },
@@ -165,8 +166,8 @@
     "id": 19,
     "cityId": 3,
     "name": "City View Hotel Jaipur",
-    "pricePerNight": 1900,
-    "rating": 4.1,
+    "pricePerNight": 5200,
+    "rating": 3.1,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_2_wxch6c.jpg",
     "description": "Modern budget hotel with rooftop restaurant offering panoramic views of Jaipur's pink cityscape."
   },
@@ -174,8 +175,8 @@
     "id": 20,
     "cityId": 4,
     "name": "Lotus Deluxe Inn",
-    "pricePerNight": 3100,
-    "rating": 4.3,
+    "pricePerNight": 8000,
+    "rating": 4.7,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_1_n4j64n.jpg",
     "description": "Business-friendly hotel with soundproof rooms, co-working spaces, and quick access to Delhi's metro network."
   },
@@ -184,7 +185,7 @@
     "cityId": 4,
     "name": "Heritage Residency Delhi",
     "pricePerNight": 2900,
-    "rating": 4.2,
+    "rating": 3.2,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_duvnqs.jpg",
     "description": "Colonial-era building converted into a boutique hotel, featuring antique furnishings and a heritage walk program."
   },
@@ -193,7 +194,7 @@
     "cityId": 4,
     "name": "Connaught Inn",
     "pricePerNight": 3500,
-    "rating": 4.5,
+    "rating": 1.5,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_4_cyxbiz.jpg",
     "description": "Premium location in CP's inner circle, offering designer rooms and proximity to high-end shopping and dining."
   },
@@ -220,7 +221,7 @@
     "cityId": 5,
     "name": "Valley View Inn",
     "pricePerNight": 2600,
-    "rating": 4.4,
+    "rating": 3.4,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_1_xofo6k.jpg",
     "description": "Every room features a private balcony overlooking lush valleys, with sunrise yoga sessions available."
   },
@@ -247,7 +248,7 @@
     "cityId": 3,
     "name": "Jaipur Jewel Stay",
     "pricePerNight": 2000,
-    "rating": 4.2,
+    "rating": 4.9,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/download_3_pett0l.jpg",
     "description": "Gemstone-themed hotel near Johari Bazaar, offering jewelry shopping tours and gemstone workshops."
   },
@@ -265,7 +266,7 @@
     "cityId": 5,
     "name": "Shimla Cloud Retreat",
     "pricePerNight": 2750,
-    "rating": 4.5,
+    "rating": 2.5,
     "image": "https://res.cloudinary.com/dn3vbnvcs/image/upload/v1752999425/images_1_n4j64n.jpg",
     "description": "Perched at high altitude, this property often sits above the clouds, offering a magical floating experience."
   }
